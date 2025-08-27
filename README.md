@@ -5,6 +5,6 @@
 
   # HoesenG's Website
 
-  Visit **[website url](#)** 🚀
+  Visit **[hoeseng.github.io/Ogrenci-Lab](https://hoeseng.github.io/Ogrenci-Lab)** 🚀
 
   _Built with [Lab Website Template](https://greene-lab.gitbook.io/lab-website-template-docs)_
